@@ -1,6 +1,5 @@
-function greet()
-{
-    return "Code changes happened on feature branch"
+function greet() {
+  return "new change modified with the another new user data";
 }
 
-console.log("greet", greet())
+console.log("greet", greet());
